@@ -1,0 +1,19 @@
+{
+  "Name": "[CP] Natural Terrarium Project - Heirloom Sunflowers Compatibility",
+  "Author": "StarAmy and NarrativeFiction",
+  "Version": "1.0",
+  "Description": "Adds fish tank animations for NarrativeFiction's sunflowers. ",
+  "UniqueID": "StarAmy.Sunflowers",
+   "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher",
+    "MinimumVersion": "1.20.0"
+   },
+   "Dependencies": [
+    {
+      "UniqueID": "spacechase0.JsonAssets",
+    },
+    {
+      "UniqueID": "NarrativeFiction.HeirloomSunflowers"
+    }
+  ]
+}

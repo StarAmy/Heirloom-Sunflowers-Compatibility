@@ -1,0 +1,26 @@
+{
+    "Format": "1.23.0",
+    "Changes": [
+         {
+        "Action": "EditImage",
+         "Target": "LooseSprites/AquariumFish",
+          "FromFile": "assets/sunflowers.png",
+          "FromArea": { "X": 0, "Y": 0, "Width": 480, "Height": 48 }, 
+          "ToArea": { "X": 0, "Y": 5664, "Width": 480, "Height": 48 },
+     },
+    {
+      "Action": "EditData",
+      "Target": "Data/AquariumFish",
+      "Entries": {
+        "{{spacechase0.JsonAssets/ObjectId: Valentine Sunflower}}": "2360/static",
+        "{{spacechase0.JsonAssets/ObjectId: Teddy Bear Sunflower}}": "2361/static",
+        "{{spacechase0.JsonAssets/ObjectId: Taiyo Sunflower}}": "2362/static",
+        "{{spacechase0.JsonAssets/ObjectId: Ring of Fire Sunflower}}": "2363/static",
+        "{{spacechase0.JsonAssets/ObjectId: Mammoth Sunflower}}": "2364/static",
+        "{{spacechase0.JsonAssets/ObjectId: Dwarven Eyes Sunflower}}": "2365/static",
+        "{{spacechase0.JsonAssets/ObjectId: Autumn Beauty Sunflower}}": "2366/static",
+
+    }
+    },
+   ]
+}
